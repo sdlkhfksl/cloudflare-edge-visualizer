@@ -1,0 +1,5 @@
+{
+  "name": "Cloudflare Edge Visualizer",
+  "description": "A high-performance 3D visualization of global edge network density using HexBin aggregation and WebGL.",
+  "requestFramePermissions": []
+}
